@@ -1,2 +1,3 @@
-# WhoamiPng.github.io
-<h1>Sem ideia de fazer um readme . . .</h1>
+<h1>Linktree de cursos<a href="https://whoamipng.github.io">entre por aqui!</a></h1>
+<br>
+<p>O intuito desse projeto é compartilhar com todos, o acesso à diversos cursos, de forma totalmente gratuita e de fácil acesso</p>
