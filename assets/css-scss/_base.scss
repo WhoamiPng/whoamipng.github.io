@@ -1,0 +1,12 @@
+
+@import 'variables';
+
+body {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden; 
+    font-family: $font-primary;
+}
+
