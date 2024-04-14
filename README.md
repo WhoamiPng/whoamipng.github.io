@@ -10,7 +10,6 @@ Descrição: Temos 5 sessões aqui, uma com os links principais, as tags que ser
 
 - **Sessão 3:** Primeira área dos nossos links principais e de mais destaque. A classe a ser usada em nossa ul é link list, e a estrutura de cada caixa de link é:
 
-<code>
 <ul>
     <li>
         <a href="link" target="_blank">
@@ -18,7 +17,6 @@ Descrição: Temos 5 sessões aqui, uma com os links principais, as tags que ser
         </a>
     </li>
 </ul>
-</code>
 
 - **Sessão 4:** A mesma coisa que a Sessão 3, só que contendo nosso links com menos relevância para o público e sendo envolvida pela classe second-link.
 
