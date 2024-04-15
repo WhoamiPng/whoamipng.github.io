@@ -9,7 +9,7 @@ Descrição: Temos 5 sessões para o desenvolvimento do zero para esse update, s
 - **Sessão 2:** Primeira área dos nossos links principais e de mais destaque. A classe a ser usada em nossa ul é link list, e a estrutura de cada caixa de link é: ul li a span a li ul.
 
 
-- **Sessão 3:** A mesma coisa que a Sessão 3, só que contendo nosso links com menos relevância para o público e sendo envolvida pela classe second-link.
+- **Sessão 3:** A mesma coisa que a Sessão 2, só que contendo nosso links com menos relevância para o público e sendo envolvida pela classe second-link.
 
 - **Sessão 4:** Nosso footer com a classe end-site.
 
