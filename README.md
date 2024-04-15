@@ -13,7 +13,7 @@ Descrição: Temos 5 sessões para o desenvolvimento do zero para esse update, s
 
 - **Sessão 4:** Nosso footer com a classe end-site.
 
-- **Sessão 5:** A sessão 3 e 4, serão automatizadas por javascript, através de um json, contendo os objetos: "title, link e description" com isso será mais fácil de fazer a manutenção de nosso site e adicionar links futuramente será algo que teremos mais eficiência.
+- **Sessão 5:** A sessão 2 e 3, serão automatizadas por javascript, através de um json, contendo os objetos: "title, link e description" com isso será mais fácil de fazer a manutenção de nosso site e adicionar links futuramente será algo que teremos mais eficiência.
 
 
 ### Obs: tudo em nosso projeto, será implementado através de javascript, assim, mantendo nosso código html mais limpo e legível para futuros updates.
