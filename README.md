@@ -2,7 +2,7 @@
 
 ## OBJETIVO: Refatoração completa do projeto (Aplicando boas práticas de semântica e SEO) + implementação de automação, para o preenchimento de cada item da árvore.
 
-Descrição: Temos 5 sessões para o desenvolvimento do zero para esse update, seguindo passo a passo, será finalizado o projeto. Em breve vou transferir para uma pasta esse projeto inteiro, ex: "whoamipng.github.io/courses".
+Descrição: Temos 5 sessões para o desenvolvimento do zero para esse update, seguindo passo a passo, será finalizado o projeto. Em breve vou transferir para uma pasta esse projeto inteiro, ex: "whoamipng.github.io/courses"
 
 - **Sessão 1:** div contendo nossa foto, nome e uma descrição breve da nossa área de atuação, com a classe "Profile" que vai envolver o conteúdo dentro da mesma. Na mesma div profile, irá ter uma lista de links inlines com os links e ícones das redes sociais(serão preenchidos com o javascript).
 
